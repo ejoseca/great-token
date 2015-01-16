@@ -1,0 +1,23 @@
+{
+  "name": "great-token",
+  "version": "0.0.0",
+  "description": "Module to use token based sessions in Node.js",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ejoseca/great-token.git"
+  },
+  "keywords": [
+    "api",
+    "token",
+    "session"
+  ],
+  "license": "Apache",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/ejoseca/great-token/issues"
+  },
+  "dependencies": {
+  }
+}
